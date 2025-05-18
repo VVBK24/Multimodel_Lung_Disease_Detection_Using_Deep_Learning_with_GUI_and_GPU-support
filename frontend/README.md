@@ -31,13 +31,7 @@ cd frontend
 npm install
 ```
 
-3. Create a `.env` file in the root directory and add the following variables:
-```env
-VITE_FLASK_API_URL=your_flask_api_url
-VITE_GOOGLE_AI_API_URL=your_google_ai_api_url
-```
-
-4. Start the development server:
+3. Start the development server:
 ```bash
 npm run dev
 ```
