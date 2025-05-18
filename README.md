@@ -2,6 +2,9 @@
 
 A comprehensive web application for analyzing chest X-rays and CT scans to detect lung diseases using deep learning models.
 
+The system intelligently uses GPU resources if available, otherwise falls back to CPU for processing, ensuring efficient performance across different hardware setups.
+Our modular architecture allows easy integration of various models, enabling flexibility to improve and expand the system with new disease detection capabilities.
+
 ## Table of Contents
 - [Features](#features)
 - [System Requirements](#system-requirements)
