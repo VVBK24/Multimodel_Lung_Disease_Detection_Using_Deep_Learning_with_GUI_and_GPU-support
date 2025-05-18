@@ -261,4 +261,4 @@ project/
 - File access denied
 
 ### Support
-For additional support or bug reports, please create an issue in the repository. # Multimodal-
+For additional support or bug reports, please create an issue in the repository. # https://github.com/VVBK24/Multimodal_Lung_Disease_Detection_Using_Deep_Learning_with_GUI_and_GPU-support
