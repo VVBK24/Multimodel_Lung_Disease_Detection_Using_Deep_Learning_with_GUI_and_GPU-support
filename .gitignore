@@ -1,0 +1,13 @@
+# Ignore folders in backend
+backend/models/
+backend/venv/
+backend/__pycache__/
+**/__pycache__/
+
+# Python cache and virtualenv files
+*.pyc
+*.pyo
+
+# IDE configs (optional)
+.vscode/
+.idea/

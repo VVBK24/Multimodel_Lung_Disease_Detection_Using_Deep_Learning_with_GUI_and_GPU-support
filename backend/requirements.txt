@@ -1,0 +1,55 @@
+# Core Framework Dependencies
+flask==2.3.3
+flask-cors==4.0.0
+Werkzeug==2.3.7
+python-dotenv==1.0.0
+
+# Deep Learning & Scientific Computing
+tensorflow==2.12.0
+tensorflow-gpu==2.12.0  # For GPU support
+keras==2.12.0
+numpy==1.23.5
+scipy==1.10.1
+h5py==3.8.0
+
+# Image Processing
+Pillow==9.5.0
+opencv-python==4.8.0.74
+scikit-image==0.20.0
+
+# Machine Learning Utils
+scikit-learn==1.2.2
+pandas==1.5.3
+
+# Medical Image Processing
+pydicom==2.3.1  # For DICOM file support
+
+# Visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Performance Optimization
+numba==0.57.1
+joblib==1.3.1
+
+# Utility Packages
+tqdm==4.65.0  # For progress bars
+requests==2.31.0
+python-dateutil==2.8.2
+
+# Development & Debugging
+pytest==7.4.0
+black==23.7.0
+flake8==6.1.0
+ipython==8.14.0
+
+# CUDA Requirements (for GPU support)
+# Note: These are installed with tensorflow-gpu
+# - CUDA Toolkit 11.8
+# - cuDNN 8.6
+
+# System Requirements:
+# - Python 3.8-3.11
+# - NVIDIA GPU with Compute Capability >= 3.5 (for GPU support)
+# - At least 4GB RAM (8GB+ recommended)
+# - 2GB free disk space 
